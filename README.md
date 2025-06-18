@@ -1,2 +1,2 @@
 # Hangman
-Guess the word 😄
+Guess letters until you getnthe word 😄
